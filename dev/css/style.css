@@ -81,3 +81,17 @@ body {
   color: #999;
   font-size: 14px;
 }
+
+/* ==== n8n Chat Widget theme customization ==== */
+:root {
+  --chat--color-primary: #4a1f2e;
+  --chat--color-secondary: #ef7a2e;
+  --chat--toggle--background: #ef7a2e;
+  --chat--toggle--hover--background: #e8641c;
+  --chat--toggle--active--background: #d1560f;
+  --chat--header--background: #4a1f2e;
+  --chat--header--color: #ffffff;
+  --chat--message--bot--background: #f4f4f4;
+  --chat--message--user--background: #ef7a2e;
+  --chat--message--user--color: #ffffff;
+}
