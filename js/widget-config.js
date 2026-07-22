@@ -6,7 +6,7 @@ createChat({
   showWelcomeScreen: true,
   initialMessages: [
     'Hi there! 👋',
-    'Welcome to The Chefz support. How can I help you today?'
+    'Welcome to TheChefz support. How can I help you today?'
   ],
   i18n: {
     en: {
